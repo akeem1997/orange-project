@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="15" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-20T18:56:33 CDT" name="Default suite" finished-at="2023-04-20T18:59:01 CDT" duration-ms="147603">
+    <groups>
+    </groups>
+    <test started-at="2023-04-20T18:56:33 CDT" name="Default test" finished-at="2023-04-20T18:59:01 CDT" duration-ms="147603">
+      <class name="TestCases.tc54">
+        <test-method signature="browser()[pri:1, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:56:33 CDT" name="browser" finished-at="2023-04-20T18:56:38 CDT" duration-ms="4306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="openurl()[pri:2, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:56:38 CDT" name="openurl" finished-at="2023-04-20T18:56:42 CDT" duration-ms="4104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="enableSleep()[pri:3, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:56:42 CDT" name="enableSleep" finished-at="2023-04-20T18:56:49 CDT" duration-ms="7005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enableSleep -->
+        <test-method signature="Logindetails(java.lang.String,java.lang.String)[pri:4, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:56:51 CDT" name="Logindetails" data-provider="getOrange" finished-at="2023-04-20T18:57:04 CDT" duration-ms="12936" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akeem]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jsdf199]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method signature="Logindetails(java.lang.String,java.lang.String)[pri:4, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:57:04 CDT" name="Logindetails" data-provider="getOrange" finished-at="2023-04-20T18:57:16 CDT" duration-ms="11346" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bayo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lit232]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method signature="Logindetails(java.lang.String,java.lang.String)[pri:4, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:57:16 CDT" name="Logindetails" data-provider="getOrange" finished-at="2023-04-20T18:57:27 CDT" duration-ms="11327" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[david]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[forloop23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method signature="Logindetails(java.lang.String,java.lang.String)[pri:4, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:57:27 CDT" name="Logindetails" data-provider="getOrange" finished-at="2023-04-20T18:57:38 CDT" duration-ms="11323" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tamka]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[korede23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method signature="Logindetails(java.lang.String,java.lang.String)[pri:4, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:57:38 CDT" name="Logindetails" data-provider="getOrange" finished-at="2023-04-20T18:57:50 CDT" duration-ms="11328" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[keke]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[micheal4994]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method signature="Logindetails(java.lang.String,java.lang.String)[pri:4, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:57:50 CDT" name="Logindetails" data-provider="getOrange" finished-at="2023-04-20T18:58:01 CDT" duration-ms="11350" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akeem99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[peter345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method signature="Logindetails(java.lang.String,java.lang.String)[pri:4, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:58:01 CDT" name="Logindetails" data-provider="getOrange" finished-at="2023-04-20T18:58:12 CDT" duration-ms="11304" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[zeek]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[myson989]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method signature="Logindetails(java.lang.String,java.lang.String)[pri:4, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:58:12 CDT" name="Logindetails" data-provider="getOrange" finished-at="2023-04-20T18:58:24 CDT" duration-ms="11312" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lori]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lori55]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method signature="Logindetails(java.lang.String,java.lang.String)[pri:4, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:58:24 CDT" name="Logindetails" data-provider="getOrange" finished-at="2023-04-20T18:58:35 CDT" duration-ms="11331" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[johnson]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[son14567]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method signature="Logindetails(java.lang.String,java.lang.String)[pri:4, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:58:35 CDT" name="Logindetails" data-provider="getOrange" finished-at="2023-04-20T18:58:46 CDT" duration-ms="11362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stalker]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[stal1997]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method signature="Logindetails(java.lang.String,java.lang.String)[pri:4, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:58:46 CDT" name="Logindetails" data-provider="getOrange" finished-at="2023-04-20T18:58:54 CDT" duration-ms="7295" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//p[@class="oxd-text oxd-text--p oxd-alert-content-text"]"}
+  (Session info: chrome=112.0.5615.137)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0abe83a6d2c51f4e1ced7d1e76319df3, findElement {using=xpath, value=//p[@class="oxd-text oxd-text--p oxd-alert-content-text"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.137, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\akeem\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63114}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63114/devtoo..., se:cdpVersion: 112.0.5615.137, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0abe83a6d2c51f4e1ced7d1e76319df3]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[@class="oxd-text oxd-text--p oxd-alert-content-text"]"}
+  (Session info: chrome=112.0.5615.137)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0abe83a6d2c51f4e1ced7d1e76319df3, findElement {using=xpath, value=//p[@class="oxd-text oxd-text--p oxd-alert-content-text"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.137, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\akeem\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63114}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63114/devtoo..., se:cdpVersion: 112.0.5615.137, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0abe83a6d2c51f4e1ced7d1e76319df3
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at TestCases.tc54.Logindetails(tc54.java:40)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logindetails -->
+        <test-method signature="enablesleep()[pri:5, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:58:54 CDT" name="enablesleep" finished-at="2023-04-20T18:59:01 CDT" duration-ms="7012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enablesleep -->
+        <test-method signature="close()[pri:6, instance:TestCases.tc54@293a5bf6]" started-at="2023-04-20T18:59:01 CDT" name="close" finished-at="2023-04-20T18:59:01 CDT" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.tc54 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
